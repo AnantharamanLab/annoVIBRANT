@@ -15,6 +15,6 @@ Run these two export commands or put them in your .bashrc/.bash_profile. Replace
 
   
 ### Example Usage
-./annoVIBRANT.py -i example_seqs.fna -t 2 -o annoVIBRANT_output_folder  
+annoVIBRANT.py -i example_seqs.fna -t 2 -o annoVIBRANT_output_folder  
 
 _Note_: you can run proteins as well, input them with -i and specify -f prot. If you use proteins they just have to be in Prodigal format ("name_of_scaffold_#").  
