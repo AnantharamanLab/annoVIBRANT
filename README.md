@@ -6,6 +6,8 @@ January 2022
 
 The purpose of this tool is to skip the virus prediction methods of VIBRANT and only annotate the input sequences with the exact same method used by VIBRANT. It is compatible with VIBRANT v1.2.1.  
 
+_IMPORTANT_: This is an extension of the main package VIBRANT. You must have the VIBRANT databases and associated files downloaded and available.  
+
 ### Setup
 Run these two export commands or put them in your .bashrc/.bash_profile. Replace `full_path_here` with your actual path. Alternatively, you can skip this and specify these two folders with -d and -m, respectively.  
 
